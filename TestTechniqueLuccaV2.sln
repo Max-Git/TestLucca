@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTechniqueLuccaV2", "TestTechniqueLuccaV2\TestTechniqueLuccaV2.csproj", "{E4D9C99A-6E35-43A6-8874-FD4C6C94F690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DD5917CC-5924-4342-B166-E49B9DF05BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5917CC-5924-4342-B166-E49B9DF05BB4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD5917CC-5924-4342-B166-E49B9DF05BB4}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD5917CC-5924-4342-B166-E49B9DF05BB4}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD5917CC-5924-4342-B166-E49B9DF05BB4}.Release|x86.Build.0 = Release|Any CPU
+		{E4D9C99A-6E35-43A6-8874-FD4C6C94F690}.Debug|x86.ActiveCfg = Debug|x86
+		{E4D9C99A-6E35-43A6-8874-FD4C6C94F690}.Debug|x86.Build.0 = Debug|x86
+		{E4D9C99A-6E35-43A6-8874-FD4C6C94F690}.Release|x86.ActiveCfg = Release|x86
+		{E4D9C99A-6E35-43A6-8874-FD4C6C94F690}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
